@@ -111,7 +111,7 @@ public class EntidadeEntidadeBeanView extends BeanManagedViewAbstract {
 			if (!entidadeEntidadeController.possuiAssociacao(objetoSelecionado)){
 				gravaAssociacao();
 				} else {
-					Messagens.msgSeverityInfor("Associação já existe.");
+					Messagens.msgSeverityInfor("Associaï¿½ï¿½o jï¿½ existe.");
 				}
 			}
 	}

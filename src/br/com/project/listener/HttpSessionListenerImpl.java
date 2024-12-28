@@ -5,11 +5,7 @@ import javax.servlet.http.HttpSessionListener;
 
 import org.springframework.stereotype.Controller;
 
-/**
- * Responsavel por interceptar a criação e destruição das sessões
- * @author alex
- *
- */
+
 @Controller
 public class HttpSessionListenerImpl implements HttpSessionListener {
 	
